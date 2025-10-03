@@ -1,13 +1,13 @@
-# Pub/Sub Using Kafka with Spring Boot 🚀 | Consumer Groups Explained 🌿 Hindi Tutorial
+# Spring Boot Kafka Explained 🔥 Topics, Partitions, Consumer Groups & Rebalancing Deep Dive
 
-Welcome to **[Backend Verse](https://www.youtube.com/@BackendVerse)**! 🎥
-In this tutorial, we explore how to implement **Apache Kafka Pub/Sub with Spring Boot** and understand **Consumer Groups** for scalable event-driven applications. 🚀
+Welcome to **[Backend Verse](https://www.youtube.com/@BackendVerse)**! 🎥   
+In this tutorial, we explore advance concepts of **Topics, Partitions, Consumer Groups & Rebalancing with Spring Boot** for scalable event-driven applications. 🚀
 
 ---
 
 ## ▶ Watch the Tutorial
 
-📺 **[Pub/Sub Using Kafka with Spring Boot 🚀 | Consumer Groups Explained 🌿 Hindi Tutorial](https://youtu.be/kXqZNPEbWbk)**
+📺 **[Spring Boot Kafka Explained 🔥 Topics, Partitions, Consumer Groups & Rebalancing Deep Dive](https://youtu.be/-vbvrshH6oo)**
 
 ---
 
